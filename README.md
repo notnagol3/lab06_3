@@ -1,5 +1,5 @@
 # lab06_3
-So far have everything up to part2 step 3.
+So far I have everything up to part2 step 2 bullet point 2.
 
 
 To run code simply run .uproject.
